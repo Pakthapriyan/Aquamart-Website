@@ -25,7 +25,7 @@ AquaMart is a simple MERN-stack web application currently implementing user logi
 
 ---
 
-## Monorepo Layout Monorepo Layout
+## repo Layout 
 
 ```
 /aquamart
