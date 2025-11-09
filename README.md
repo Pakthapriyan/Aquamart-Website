@@ -253,12 +253,3 @@ MIT — feel free to use and modify.
 
 ---
 
-## FAQ FAQ
-
-**Do I need MongoDB Atlas?**  Recommended. If not, run local MongoDB and set `MONGO_URI=mongodb://localhost:27017/aquamart`.
-
-**Where do I put `server.js`?**  `/backend/src/server.js`. The `start` script should point to it.
-
-**I don’t have Stripe yet.**  Keep the mock checkout and hide the Stripe button until keys exist.
-
-**Can I deploy the backend on EC2 directly?**  Yes, but EB/ECS reduces ops overhead.
